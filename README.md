@@ -28,6 +28,8 @@ optional arguments:
 
 ## Examples
 
+### Before
+
 Your unreadable code
 
 ```c
@@ -37,8 +39,7 @@ float getAmplitude(float x, float y) {
 }
 ```
 
-## After
-
+### Afer
 
 Your more readable code
 ```c
